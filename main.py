@@ -1,10 +1,10 @@
-# This is a simple Python script that prints "Hello, World!" to the console.
-print("Hello, World!")
-# Adding two numbers
-def add_numbers(a, b):
-    return a + b
+print("hello")
+if 5 > 3:
+    print(" 5 is greater than 3")
+# this is comment code.
+# print("this is comment code")
 
-# Example usage
-result = add_numbers(5, 3)
-print(f"The sum of 5 and 3 is: {result}")
-
+"""
+this is multi
+line comment
+"""
