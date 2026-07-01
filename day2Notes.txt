@@ -1,0 +1,69 @@
+1. brief about the yesterday session.
+	fine
+2.Today 
+
+	front-end the data is need.
+	backend will provide from data base.
+To get that data we need program.
+	We need to write a program.
+we have some rules.?
+	To get the syntax need to know the data types.
+
+
+1) Integer def a number with - or + value. ex?- 1 ,2, single digit or double digit 20 it may be 123.
+2) Float:- Df a number with a decimal number ex:- 10.223,
+3) Complex :- we can do operation of int with suffix j 2+3j
+4)  String : Def a string is any char . it a name a number a special char ex:"Aditya369" , 'Ranga'
+
+"""
+my name is Aditya 
+i am studying python
+i am from US
+ """
+5) Boolean def:- it is a true or false it condition : ex: 'True' == True  ? No 
+6) List def:- list is data type that can store multiple data with same or different data type ex:- [1,2,3]  ['Aditya','ranga']
+7) Tuple := Def data type is you cant change :- {'my','name','ranga'}
+8) Dist it is a data type.
+
+
+Do you TYPE Casting?
+
+ex:- x = 10
+ print(type(x))
+int
+
+Do you Case Sensitive?
+
+ex:- x= 10
+X= 20
+
+do you know to how declare a variable?
+
+ex:- in java script 
+	let, var, const 
+let x = 10;
+
+Int x= 10;
+
+
+and in python we have a option change the data type after declaration.
+ex:- 
+x = "aditya"
+x = 10
+print(x)
+
+Aditya = 10;
+
+adityaName = 10;
+
+
+
+ex:- index
+
+Hello, World!
+01234567
+
+
+
+
+ 
