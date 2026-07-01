@@ -1,0 +1,44 @@
+Application:- 
+Website
+
+1. Previous days.. 
+	10 apples -> Customer need apples 
+2. Website => 
+
+		> amazon , flip kart are the applications
+-> the purpose is fulfilled.
+
+How we can create application?
+
+3 major parts
+	1. Front-end -> Who ever the users see the data.
+	2. Backend -> what ever Front-end is asking the data is provided by backed.
+	3. Database-> where the data is storing.
+HTML, CSS, JAVASCRIPT-< ANGULAR< REACT.
+
+BACKED-> IT handles server to get the data from Database
+	> C,C++,.NET, JAVA, PYTHON, PHP.
+DATABASE-> SQL, MANGO DB, DB2.
+
+PYTHON:- Why we need to learn? 
+	1. easy to learn.
+	2. It involves in AI.
+binary 01010101010
+
+PYTHON We have interpreter-> it will convert the programming to binary in runtime.
+JAVA- C++ , complication time interpreter-> 
+1. one main reason
+2. Declaration type?
+
+a = 10
+a = Aditya 
+a= true
+
+Int a = 10;
+Boolean a= true;
+
+we can make a calls from JAVA to PYTHON and vice versa.
+
+
+
+_
