@@ -1,0 +1,5 @@
+Hello, World!
+This is a sample text file.
+Python File Handling Demo.
+This line was appended.
+Another appended line.
