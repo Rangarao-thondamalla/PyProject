@@ -1,0 +1,44 @@
+# import pandas as pd
+# patient_data_df = pd.read_csv(r"C:\Users\trang\Work\PyProject\employees_data.csv")
+# print(patient_data_df.head(1))
+
+# columns = patient_data_df.columns
+# print(columns)
+# print(patient_data_df.describe)
+
+# print(patient_data_df.dtypes)
+# print(patient_data_df.describe)
+# print(patient_data_df['blood_group'].head(10))
+# display(patient_data_df['blood_group'].head(10))
+# print(patient_data_df[['age', 'blood_group', 'name']].head())
+# print(patient_data_df[patient_data_df['age']>60].head())
+# print(len(patient_data_df[patient_data_df['age'] > 60]))
+# print(len(patient_data_df[patient_data_df['city']=='Mumbai']))
+# print(patient_data_df.sort_values(by='city', ascending=False).head(5))
+# print(patient_data_df.groupby('city')['bill_amount'].mean())
+# print(patient_data_df.shape)
+# patient_data_df_delete = patient_data_df.drop(columns=['bill_amount'])
+# print(patient_data_df_delete.head())
+# patient_data_df_delete.to_csv(r'E:\learning_vault\mastering_python\python_batch_04\patient_data\patient_data_df_delete.csv', index=False)
+# print(patient_data_df_delete.shape)
+# print(patient_data_df_delete.isnull().sum())
+# patient_data_df_delete = patient_data_df_delete.dropna()
+# print(patient_data_df_delete.isnull().sum())
+# print(patient_data_df_delete.drop_duplicates().shape)
+# patient_data_df_delete['State'] = 'Karnataka'
+# # patient_data_df_fill=patient_data_df.fillna("Not Applicable")
+# patient_data_df_fill=patient_data_df['disease'].fillna("Not")
+# patient_data_df_fill.to_csv(r'E:\learning_vault\mastering_python\python_batch_04\patient_data\patient_data_df_fill.csv', index=False)
+# import matplotlib.pyplot as plt
+# disease_counts = patient_data_df['disease'].value_counts()
+# plt.figure(figsize=(8, 6))
+# disease_counts.plot(kind='bar', color='skyblue')
+# plt.title('Number of patients by Disease')
+# plt.xlabel('Disease')
+# plt.ylabel('Count')
+# plt.xticks(rotation=45)
+# plt.tight_layout()
+# plt.show()
+
+
+# python -m pip install pandas
